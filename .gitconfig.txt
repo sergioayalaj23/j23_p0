@@ -1,0 +1,8 @@
+[user]
+name = Sergio Ayala
+	email = 39202.joan23@fje.edu
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
