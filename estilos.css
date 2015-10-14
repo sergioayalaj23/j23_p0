@@ -1,0 +1,99 @@
+<!--CSS web -->
+    <style type="text/css">
+
+       
+
+        .Titulo
+
+        {
+
+            display: table-caption;
+
+            text-align: center;
+
+            font-weight: bold;
+
+            font-size: larger;
+
+        }
+
+        .cabecera
+
+     
+	{
+
+            display: table-row;
+
+            font-weight: bold;
+
+            text-align: center;
+   .Fila
+
+        {
+			
+            display: table-row;
+			
+
+        }
+        }
+
+      
+        .Celda1
+
+        {
+			background-color:#284EF7;
+            display: inline-block;
+            border-width: thin;
+			float: left;
+			min-height: 100px;
+			width: 24%;
+			border: 2px solid;
+			text-align: center;
+			margin: 2px 2px;
+			height: 125px;
+
+        }
+		 .Celda2
+
+        {
+			background-color:#1FF68E;
+            display: table-cell;
+            border-width: thin;
+			float: left;
+			min-height: 100px;
+			width: 24%;
+			border: 2px solid;
+			text-align: center;
+			margin: 2px 2px;
+			height: 125px;
+        }
+		 .Celda3
+
+        {
+			background-color:#5AA8FB;
+            display: table-cell;
+            border-width: thin;
+			float: left;
+			min-height: 100px;
+			width: 24%;
+			border: 2px solid;
+			text-align: center;
+			margin: 2px 2px;
+			height: 125px;
+        }
+		 .Celda4
+
+        {
+			background-color:#43F728;
+            display: table-cell;
+            border-width: thin;
+			float: left;
+			min-height: 100px;
+			width: 24%;
+			border: 2px solid;
+			text-align: center;
+			margin: 2px 2px;
+			height: 125px;
+        }
+
+    </style>
